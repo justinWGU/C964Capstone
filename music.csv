@@ -1,0 +1,13 @@
+age,gender,genre
+20,1,hiphop
+23,1,hiphop
+25,1,hiphop
+26,1,jazz
+30,1,jazz
+32,1,classical
+21,0,dance
+22,0,dance
+25,0,dance
+26,0,acoustic
+30,0,acoustic
+32,0,classical
